@@ -1,7 +1,7 @@
 package br.com.felipemusic.service;
 
 import br.com.felipemusic.dao.PlaylistDao;
-import br.com.felipemusic.model.Playlist;
+import br.com.felipemusic.domain.Playlist;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

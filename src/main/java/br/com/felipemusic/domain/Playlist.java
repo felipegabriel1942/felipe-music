@@ -1,4 +1,4 @@
-package br.com.felipemusic.model;
+package br.com.felipemusic.domain;
 
 import lombok.Getter;
 import lombok.Setter;

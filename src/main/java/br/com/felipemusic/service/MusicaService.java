@@ -1,6 +1,6 @@
 package br.com.felipemusic.service;
 
-import br.com.felipemusic.model.Musica;
+import br.com.felipemusic.domain.Musica;
 
 import java.util.List;
 

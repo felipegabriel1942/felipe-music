@@ -1,11 +1,13 @@
 package br.com.felipemusic.dao;
 
-import br.com.felipemusic.model.Musica;
+import br.com.felipemusic.domain.Musica;
+import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import java.util.List;
 
+@Repository
 public class MusicaDaoImpl implements MusicaDao {
 	
 	@PersistenceContext

@@ -1,6 +1,6 @@
 package br.com.felipemusic.dao;
 
-import br.com.felipemusic.model.Playlist;
+import br.com.felipemusic.domain.Playlist;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;
